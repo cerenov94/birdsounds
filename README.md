@@ -5,7 +5,7 @@
 
 ## Starter config
 configs.py
-Стартовые конфигурации проекта
+Стартовые конфигурации проекта.
 ## Preprocessing
 * imageconstructor.py 
 * testDSconstructor.py
@@ -16,4 +16,6 @@ configs.py
 ## Train
 Run python main.py -r t
 
-Содержит трейн датасет, модель , и функции для обучения.
+* Содержит класс -> трейн датасет 
+* модель
+* функции для обучения
