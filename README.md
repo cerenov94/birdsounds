@@ -15,3 +15,5 @@ configs.py
 
 ## Train
 Run python main.py -r t
+
+Содержит трейн датасет, модель , и функции для обучения.
